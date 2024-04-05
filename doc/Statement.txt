@@ -1,0 +1,5 @@
+- Searching the contacts
+- Add new contact
+- Update Contact
+- Delete contact
+-Merge contact
